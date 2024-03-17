@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/aryas/OneDrive/Desktop/SDLPractice/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/sdlprac.dir/includes_CXX.rsp -g -o CMakeFiles\\sdlprac.dir\\src\\main.cpp.obj -c C:\\Users\\aryas\\OneDrive\\Desktop\\SDLPractice\\src\\main.cpp",
+  "file": "C:/Users/aryas/OneDrive/Desktop/SDLPractice/src/main.cpp",
+  "output": "CMakeFiles/sdlprac.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/aryas/OneDrive/Desktop/SDLPractice/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/sdlprac.dir/includes_CXX.rsp -g -o CMakeFiles\\sdlprac.dir\\src\\window.cpp.obj -c C:\\Users\\aryas\\OneDrive\\Desktop\\SDLPractice\\src\\window.cpp",
+  "file": "C:/Users/aryas/OneDrive/Desktop/SDLPractice/src/window.cpp",
+  "output": "CMakeFiles/sdlprac.dir/src/window.cpp.obj"
+},
+{
+  "directory": "C:/Users/aryas/OneDrive/Desktop/SDLPractice/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/sdlprac.dir/includes_CXX.rsp -g -o CMakeFiles\\sdlprac.dir\\src\\button.cpp.obj -c C:\\Users\\aryas\\OneDrive\\Desktop\\SDLPractice\\src\\button.cpp",
+  "file": "C:/Users/aryas/OneDrive/Desktop/SDLPractice/src/button.cpp",
+  "output": "CMakeFiles/sdlprac.dir/src/button.cpp.obj"
+}
+]
